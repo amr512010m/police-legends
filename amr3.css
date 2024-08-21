@@ -1,0 +1,16 @@
+.main{background-image: url('9019796.jpg'); height: 700px;justify-content: center; margin: auto;background-position: center; color:white; background-repeat: no-repeat; background-size: cover}
+@keyframes animation1{
+	from{margin-top: 0px;}	
+	to{margin-top: 100px;}
+}
+.main h1{ font-size: 50px; animation-name: animation1; animation-duration: 2s;}
+.t{margin-top: 178px;margin-left: 350px;}
+.l{margin-left: 220px;}
+.navbar{background-color:rgba(0, 0, 0, 0.5);;; justify-content: center; margin: auto; height: 50px;padding: 10px;}
+.navbar a{ color:white; margin: 70px; text-align: center; text-justify: auto; font-family: monospace;font-size: 20px;}
+.btn1{color:white;;background-color:rgba(5, 5, 50, 0.55);; padding: 15px; width: 200px; margin-left: 480px; margin-top: 50px; border-radius: 8px; border-color: darkgray; font-size: 20px;font-family: cursive;}
+.signbox{display: flex;;flex-direction: column; }
+.signbox input{width: 50%; margin: 10px; margin-left: 300px;}
+.signbox input{padding: 10px; border-radius: 8px;}
+.signbox button{width: 25%; padding: 12px; border-radius: 10px;margin: 10px; margin-left: 410px;}
+.e{width: 800px; height: 200px; background-color: white; border-radius: 8px; margin: 200px;}
